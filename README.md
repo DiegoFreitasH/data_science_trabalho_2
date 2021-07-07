@@ -2,7 +2,7 @@
 
 ## Equipe
 - Diego Freitas Holanda (411627)
-- Davi Segundo Pinheiro
+- Davi Segundo Pinheiro (417153)
 
 ## Objetivos
 
